@@ -1,0 +1,150 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+		font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	border: 1px outset black;
+}
+.navbar
+{
+	background-color: lightblue;
+	padding: 0 !important;
+}
+.navbar-brand img
+{
+	height:40px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 10px; 
+}
+.navbar-nav li a
+{
+	 color: black !important;
+	 font-weight: 600;
+	 float: right;
+	 text-align: left;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+#parallax {
+  /* The image used */
+  background-image: url("blown.png");
+
+  /* Set a specific height */
+  min-height: 750px; 
+  min-width:100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#banner
+{
+	background-color: lightblue;
+	padding-top: 5%;
+	height: 250px;
+	background-image: url(cat.png);
+}
+.Promo
+{
+
+	text-align: center;
+	font-family:Hind;
+	font-size: 40px;
+	font-weight: normal;
+	margin: center;
+	padding: 1em 0;
+	color: #fff;
+	
+}
+.Promo1
+{
+
+
+	font-size: 40px;
+	font-weight: normal;
+	margin: center;
+	padding: 1em 0;
+
+	
+}
+.col-md-6
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:right;
+	margin-top: 50px;
+}
+.col-md-61
+{
+
+
+	height: 10%;
+	position:right;
+	margin-top: 50px;
+}
+.img-fluid
+{
+	height:300px;
+	width: 300px
+
+	
+}
+
+#story
+{
+	background-color: #f092b6;
+	padding-top: 5%;
+	height: 1000px;
+	background-image: url(script.png);
+}
+
+.img-fluid
+{
+	height:200px;
+	width: 200px
+
+}
+.col-md-7
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:middle;
+	margin-top: 150px;
+}
+
+#feel
+{
+	background-color: #90a2e8;
+	padding-top: 5%;
+	height: 600px;
+	background-image: url(gamepad.png);
+}
+.col-md-8
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:middle;
+	margin-top: 80px;
+}
