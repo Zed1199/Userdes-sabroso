@@ -29,9 +29,11 @@
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <a class="dropdown-item" href="reflection.html">Reflection no. 1</a>
-    <a class="dropdown-item" href="#">Reflection no. 2</a>
-    <a class="dropdown-item" href="#">Reflection no. 3</a>
-	<a class="dropdown-item" href="#">Reflection no. 4</a>
+    <a class="dropdown-item" href="ref2.html">Reflection no. 2</a>
+    <a class="dropdown-item" href="ref3.html">Reflection no. 3</a>
+	<a class="dropdown-item" href="ref4.html">Reflection no. 4</a>
+	<a class="dropdown-item" href="ref5.html">Reflection no. 5</a>
+	<a class="dropdown-item" href="ref6.html">Reflection no. 6</a>
   </div>
 	</li>
 	
@@ -45,8 +47,8 @@
     <a class="dropdown-item" href="Act1.html">Activity# 1</a>
     <a class="dropdown-item" href="act2.html">Activity# 2</a>
     <a class="dropdown-item" href="act3.html">Activity# 3</a>
-	<a class="dropdown-item" href="act4.html">Activity# 4</a>
-	<a class="dropdown-item" href="Act5.html">Activity# 5</a>
+    <a class="dropdown-item" href="act4.html">Activity# 4</a>
+    <a class="dropdown-item" href="Act5.html">Activity# 5</a>
     <a class="dropdown-item" href="act6.html">Activity# 6</a>
     <a class="dropdown-item" href="act7.html">Activity# 7</a>
 	<a class="dropdown-item" href="act8.html">Activity# 8</a>
