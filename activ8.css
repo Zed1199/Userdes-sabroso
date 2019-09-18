@@ -94,8 +94,8 @@ body
 }
 .imgfluid
 {
-	height:400px;
-	width: 400px
+	height:200px;
+	width: 200px
 	padding-top: 20px;
 	box-shadow: 7px 7px 18px black;
 	
@@ -111,8 +111,8 @@ body
 
 .img-fluid
 {
-	height:200px;
-	width: 200px
+	height:100px;
+	width: 100px
 	padding-top: 20px;
 	box-shadow: 7px 7px 18px black;
 }
