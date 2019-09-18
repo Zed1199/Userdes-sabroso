@@ -48,7 +48,7 @@
     <a class="dropdown-item" href="act2.html">Favorite Apps</a>
     <a class="dropdown-item" href="act3.html">1000 Elevator Problem</a>
 	<a class="dropdown-item" href="act4.html">Data Collection</a>
-	<a class="dropdown-item" href="Act5.html">Initial Prototype</a>
+	<a class="dropdown-item" href="act5.html">Initial Prototype</a>
     <a class="dropdown-item" href="act6.html">Personas</a>
     <a class="dropdown-item" href="act7.html">Designing Card</a>
 	<a class="dropdown-item" href="act8.html">3x3 and 4x4 Grid Design</a>
