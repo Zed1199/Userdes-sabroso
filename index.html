@@ -22,6 +22,9 @@
       <li class="nav-item">
         <a class="nav-link" href="#">HOME </a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="leaning.html">Learnings </a>
+      </li>
 	  <li>
       <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
